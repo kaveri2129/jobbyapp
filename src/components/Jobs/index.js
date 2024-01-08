@@ -2,7 +2,7 @@ import './index.css'
 
 import Header from '../Header'
 
-import AllJobsSection from '../AllJobsSection'
+import AllJobsSection from '../AllJobSection'
 
 const Jobs = () => (
   <>
